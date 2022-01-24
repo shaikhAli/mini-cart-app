@@ -1,0 +1,1 @@
+export const GET_PRODUCTS = "https://dnc0cmt2n557n.cloudfront.net/products.json";
