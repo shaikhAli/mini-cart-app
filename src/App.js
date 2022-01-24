@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     let cartItems = JSON.parse(localStorage.getItem("cartItems"));
-  
+
     /* 
     * Initial API call for cart items- restrict the API call when all cart item are removed
     */
